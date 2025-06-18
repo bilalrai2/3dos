@@ -24,10 +24,10 @@
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/3Dos-BOT.git
+   git clone https://github.com/bilalrai2/3dos.git
    ```
    ```bash
-   cd 3Dos-BOT
+   cd 3dos
    ```
 
 2. **Install Requirements:**
